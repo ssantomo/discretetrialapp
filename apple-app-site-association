@@ -1,0 +1,16 @@
+{
+  "appclips": {
+    "apps": ["TEAMID.com.yourcompany.discretetrial.Clip"]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["TEAMID.com.yourcompany.discretetrial"],
+        "components": [
+          { "/": "/clip/*" }
+        ]
+      }
+    ]
+  }
+}
