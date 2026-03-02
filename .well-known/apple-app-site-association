@@ -1,0 +1,16 @@
+{
+  "appclips": {
+    "apps": ["SUW47U5855.iOS.ABATargetLibraryiOS.Clip"]
+  },
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appIDs": ["SUW47U5855.iOS.ABATargetLibraryiOS"],
+        "components": [
+          { "/": "/clip/*" }
+        ]
+      }
+    ]
+  }
+}
